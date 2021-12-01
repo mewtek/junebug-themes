@@ -1,0 +1,128 @@
+/* JUNEBUG THEME */
+/* If you found this somehow, nice work! */
+body
+{
+  background-color: #130626;
+}
+
+.profile
+{
+  background-color: #2e2147;
+}
+
+main
+{
+  background-color: #2e2147;
+}
+
+/*  TEXT */
+
+.profile h1
+{
+  color: white;
+  text-align: center;
+}
+
+.profile h4
+{
+  color: #a2e8bf;
+}
+
+.profile p
+{
+  color: white;
+}
+
+.profile .blurbs .inner h4
+{
+  color: #a2e8bf;
+}
+
+/*  Blurb bars and other stuff */
+.profile .blurbs .heading
+{
+  background-color: #30305c;
+}
+
+.profile .friends .heading
+{
+  background-color: #30305c;
+}
+
+.profile .friends .person p
+{
+  color: white;
+}
+
+
+.profile .contact .heading
+{
+  color: #ff6f6f;
+  background-color: #30305c;
+}
+
+.profile .contact
+{
+  border-color: #30305c;
+}
+
+/* Tables */
+
+.profile .table-section .heading
+{
+  background-color: #30305c;
+}
+
+.profile .table-section
+{
+  border-color: #30305c;
+}
+
+.profile table.details-table tbody p
+{
+  color: white;
+  text-align: left
+}
+
+.profile table.details-table tr td:first-child
+{
+  background-color: #765aa1;
+  
+}
+
+.profile table.details-table tr td
+{
+  background-color: #30305c;
+  
+}
+
+/* Comments */
+.profile table.comments-table tr td:first-child
+{
+  background-color: #765aa1;
+}
+
+.profile table.comments-table tr td
+{
+  background-color: #30305c;
+}
+
+.profile table.comments-table p, .profile table.comments-table .icon
+{
+  filter: drop-shadow(1px 3px 2px black);
+}
+
+
+/* Navbar */
+nav .top, nav .links
+{
+  background: #494279;
+}
+
+/* misc. */
+
+footer
+{
+  background-color: #30305c;
+  color: white;
+}
