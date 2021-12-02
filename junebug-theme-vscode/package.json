@@ -3,7 +3,8 @@
     "displayName": "Junebug",
     "description": "A calming yet vibrant purple theme",
     "publisher": "mewtek",
-    "version": "1.0.0",
+    "repository": "https://github.com/mewtek/junebug-themes/tree/main/junebug-theme-vscode",
+    "version": "1.1.0",
     "author": {
         "name": "June P."
     },
