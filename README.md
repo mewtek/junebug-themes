@@ -3,6 +3,10 @@ This is a small collection of color schemes that I've made for my personal stuff
 
 I need to have a place to store them, so I'm gonna go ahead and leave them here.
 
+### Downloads:
+[VSCode theme](https://marketplace.visualstudio.com/items?itemName=mewtek.junebug-theme)
+(``ext install mewtek.junebug-theme``)
+
 # Screenshots
 ## Visual Studio Code
 Main Screen
